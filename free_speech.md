@@ -13,6 +13,7 @@
 **<a name="give_time"></a> Here are organizations you can volunteer with:**
 
 **<a name="give_money"></a> Here are organizations you can donate to:**
-[Reporters Committee for Freedom of the Press](https://www.rcfp.org/)
-[ProPublica](https://www.propublica.org/)
-[ACLU](https://www.aclu.org/)
+
+* [Reporters Committee for Freedom of the Press](https://www.rcfp.org/)
+* [ProPublica](https://www.propublica.org/)
+* [ACLU](https://www.aclu.org/)
