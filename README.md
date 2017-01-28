@@ -1,4 +1,4 @@
-# The Resistance
+# Political Resources
 
 A compilation of resources for those looking to resist Trump's policies.
 
