@@ -1,4 +1,4 @@
-# The Resistance
+# Political Resources
 
 ## What are you looking for?
 
