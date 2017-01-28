@@ -2,7 +2,7 @@
 
 A compilation of resources for those looking to resist Trump's policies.
 
-[The site.](https://valeriecodes.github.io/the-resistance/)
+[The site.](https://valeriecodes.github.io/political-resources/)
 
 Have something to add?
 
