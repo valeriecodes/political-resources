@@ -2,6 +2,10 @@
 
 ## [I need help](#need_help)
 
+* Find, then call or write your local [ACLU affliate](https://www.aclu.org/about/affiliates)
+* If you are Muslim know [your rights](https://www.aclu.org/know-your-rights/what-do-when-faced-anti-muslim-discrimination)
+* Know your rights in case of an [ICE visit](https://www.aclu.org/know-your-rights/what-do-if-immigration-agents-ice-are-your-door) or [when asked](https://www.aclu.org/know-your-rights/what-do-if-questioned-about-your-immigration-status)
+
 ## [I want to help](#want_to_help)
 
 ### <a name="need_help"></a>Here are resources if you or someone you know needs help
