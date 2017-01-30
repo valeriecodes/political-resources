@@ -14,6 +14,7 @@
 **<a name="give_time"></a> Here are organizations you can volunteer with:**
 
 **<a name="give_money"></a> Here are organizations you can donate to:**
+
 * [Earthjustice](http://earthjustice.org/)
 * [Natural Resources Defense Council](https://www.nrdc.org/)
 * [Acadia Center](http://acadiacenter.org/)
