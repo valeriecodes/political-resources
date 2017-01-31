@@ -6,6 +6,9 @@
 
 ### <a name="need_help"></a>Here are resources if you or someone you know needs help
 
+* Make sure to use [Tor](https://www.torproject.org/) if you want to anonymously provide information online.
+* You can go a step further and use [Tails](https://tails.boum.org/) if using a non-private computer.
+
 ### <a name="want_to_help"></a>What do you have?
 
 * [Time](#give_time)
