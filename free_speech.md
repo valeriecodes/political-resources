@@ -21,3 +21,6 @@
 * [Reporters Committee for Freedom of the Press](https://www.rcfp.org/)
 * [ProPublica](https://www.propublica.org/)
 * [ACLU](https://www.aclu.org/)
+* [National Coalition Against Censorship](http://ncac.org/)
+* [The Center for Investigative Reporting](https://www.revealnews.org/)
+* [The Center for Public Integrity](https://www.publicintegrity.org/)
