@@ -17,8 +17,10 @@
 
 **<a name="give_time"></a> Here are organizations you can volunteer with:**
 
-* [GLAAD](http://www.glaad.org/getinvolved/volunteer/)
+* [GLAAD](https://www.glaad.org/getinvolved/volunteer/)
+* [The Human Rights Campaign](https://e-activist.com/ea-action/action?ea.client.id=1954&ea.campaign.id=43545)
 
 **<a name="give_money"></a> Here are organizations you can donate to:**
 
 * [GLAAD](http://www.glaad.org/)
+* [The Human Rights Campaign](http://www.hrc.org/)
