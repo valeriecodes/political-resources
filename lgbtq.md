@@ -8,6 +8,7 @@
 
 * If transgender and in crisis, contact [Trans Lifeline](https://www.translifeline.org/) at 1-877-565-8860 
 * If LGBTQ and in crisis, contact [Trevor Project](http://www.thetrevorproject.org/) at 1-866-488-7386 
+* Report media defamation to [GLAAD](http://www.glaad.org/form/report-media-defamation)
 
 ### <a name="want_to_help"></a>What do you have?
 
@@ -16,4 +17,8 @@
 
 **<a name="give_time"></a> Here are organizations you can volunteer with:**
 
+* [GLAAD](http://www.glaad.org/getinvolved/volunteer/)
+
 **<a name="give_money"></a> Here are organizations you can donate to:**
+
+* [GLAAD](http://www.glaad.org/)
