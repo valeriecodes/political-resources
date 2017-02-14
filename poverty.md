@@ -13,4 +13,10 @@
 
 **<a name="give_time"></a> Here are organizations you can volunteer with:**
 
+* [CARE](http://www.care.org/)
+* [Oxfam America](https://www.oxfamamerica.org/)
+
 **<a name="give_money"></a> Here are organizations you can donate to:**
+
+* [CARE](http://www.care.org/)
+* [Oxfam America](https://www.oxfamamerica.org/)
